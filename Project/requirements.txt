@@ -1,0 +1,5 @@
+fastapi>=0.115
+uvicorn>=0.34
+paho-mqtt>=2.1
+stmpy>=0.7
+pytest>=8.0
